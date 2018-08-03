@@ -6,6 +6,9 @@ A collection of online finance math resources.
 #### Introduction to Probability and Statistics (MIT)
 http://ocw2.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/
 
+#### Statistical and Mathematical Methods (NYU)
+https://cims.nyu.edu/~cfgranda/pages/DSGA1002_fall15/schedule.html  
+
 ## Linear Algebra:
 #### Linear Algebra (MIT)
 http://ocw2.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/index.htm
