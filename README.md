@@ -12,6 +12,9 @@ https://cims.nyu.edu/~cfgranda/pages/DSGA1002_fall15/schedule.html
 #### Probability and Statistics (Stanford)
 https://online.stanford.edu/courses/gse-yprobstat-probability-and-statistics  
 
+#### Statistics and probability (Khan Academy)
+https://www.khanacademy.org/math/statistics-probability
+
 ## Linear Algebra:
 #### Linear Algebra (MIT)
 http://ocw2.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/index.htm
