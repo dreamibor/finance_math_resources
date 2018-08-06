@@ -9,6 +9,9 @@ http://ocw2.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-st
 #### Statistical and Mathematical Methods (NYU)
 https://cims.nyu.edu/~cfgranda/pages/DSGA1002_fall15/schedule.html  
 
+#### Probability and Statistics (Stanford)
+https://online.stanford.edu/courses/gse-yprobstat-probability-and-statistics  
+
 ## Linear Algebra:
 #### Linear Algebra (MIT)
 http://ocw2.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/index.htm
